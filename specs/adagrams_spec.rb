@@ -34,7 +34,7 @@ describe 'Adagrams' do
 
       is_valid = uses_available_letters? test_word, drawn_letters
 
-      is_valid.must_equal true
+      expect(is_valid).must_equal true
     end
 
     it 'returns false word contains letters not in the drawn letters' do
