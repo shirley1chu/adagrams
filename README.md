@@ -2,7 +2,7 @@
 
 ## At a Glance
 - Pair, [stage 2](https://github.com/Ada-Developers-Academy/pedagogy/blob/master/rule-of-three.md#stage-2) project
-- Due before class, Monday Februaray 25th
+- Due by End of Day, Friday Februaray 25th
 
 ## Introduction
 
