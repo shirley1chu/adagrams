@@ -136,7 +136,7 @@ To do so, add a method called `uses_available_letters?` in `adagrams.rb`. This m
 - Returns `true` if every letter in the `input` word is available (in the right quantities) in the `letters_in_hand`
 - Returns `false` if not; if there is a letter in `input` that is not present in the `letters_in_hand` or has too much of compared to the `letters_in_hand`
 
-<!---### Wave 3
+### Wave 3
 
 We want a method that returns the score of a given word as defined by the Adagrams game.
 
@@ -192,7 +192,7 @@ Add a method called `is_in_english_dict?` in `adagrams.rb`. This method should h
 There are no unit tests provided for this wave, but there is driver code found in `wave-5-game.rb`. Feel free to alter `specs/adagrams_sepc.rb` and add some!
 
 Nota Bene: The original data for all of the alpha words of the English dictionary was found freely available at [`dwyl/english-word`'s repo](https://github.com/dwyl/english-words), and was modified to only include words under 10 characters.
---->
+
 
 ## What Instructors Are Looking For
 Check out the [feedback template](feedback.md) which lists the items instructors will be looking for as they evaluate your project.
